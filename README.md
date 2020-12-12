@@ -26,3 +26,5 @@ in this exercise, two Langevin Equations are coupled. As before, we can solve th
 Here I solve the equation for a Poisson Process numerically and then calculated the first 6 moments for this process. From those, we can find some characteristic parameters of our process.
 A Poisson jump-diffusion process is a process where as well as our normal drift and diffusion terms, like in the Langevin equation, there is another term indicating jumps. The time difference between jumps obeys a Poisson distribution.
 
+________________
+course info : Stochastic Processes - 2017 - Sharif University of Technology - Physics Department
